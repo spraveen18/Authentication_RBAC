@@ -1,0 +1,32 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Flask instance folder (optional)
+instance/
+
+# SQLite DB (if you don't want to commit the DB)
+*.sqlite3
+*.db
+
+# Editor/IDE folders
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# pytest cache
+.pytest_cache/
+
+# Logs
+*.log

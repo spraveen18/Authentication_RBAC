@@ -16,8 +16,8 @@ Build a secure backend API for user authentication and role-based access control
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/auth-rbac-flask.git
-cd auth-rbac-flask
+git clone https://github.com/spraveen18/Authentication_RBAC.git
+cd Authentication_RBAC
 ```
 
 ### 2. Install dependencies
